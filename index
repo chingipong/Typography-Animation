@@ -10,12 +10,12 @@
 	</head>
 	<body>
 		<h1 class="title">
-			I am John Doe, a <br />
+			I am Amaan Gauhar, a <br />
 			professional
 			<div class="title__alternate">
-				<span style="--d: 0s">ui designer.</span>
-				<span style="--d: 3s">ux designer.</span>
-				<span style="--d: 6s">web developer.</span>
+				<span style="--d: 0s">web developer.</span>
+				<span style="--d: 3s">thinker.</span>
+				<span style="--d: 6s">misogynist.</span>
 			</div>
 		</h1>
 	</body>
